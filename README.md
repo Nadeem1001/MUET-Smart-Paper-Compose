@@ -1,35 +1,44 @@
-# MUET-Smart-Paper-Compose
-Offline examination paper preparation application for university teachers.
-## MUET Smart Paper Composer v2.6.1
+# MUET Smart Paper Composer
 
-An offline Windows application for preparing structured university examination papers.
+MUET Smart Paper Composer is an offline Windows desktop application that helps university teachers prepare consistently formatted examination papers.
 
-### Main Features
+## Main features
 
-- MUET examination-paper format
-- Live A4 preview
-- Question import and Question Vault
-- CLO, Bloom level and PLO mapping
-- Automatic marks checking
-- Main questions and subparts
+- Guided paper setup
+- Manual question entry and structured subparts
+- Word and TXT question import
+- Subject-wise Question Vault
+- CLO, Bloom level and PLO mapping support
+- Marks and paper-structure checks
+- Live A4 paper preview
 - Microsoft Word and PDF export
-- Editable project saving
-- Offline and private operation
+- Editable project saving and recovery
+- Offline desktop operation
 
-### Installation
+## Screenshots
 
-1. Download the Setup EXE below.
-2. Run the installer.
-3. Windows may display a security warning because the installer is not digitally signed.
-4. Complete installation and launch the application from the Start menu.
+### Paper Editor
 
-### Trial
+![Paper Editor](screenshots/paper-editor.png)
 
-The application includes a 15-day evaluation period.  
-Contact the developer for activation.
+### Full Paper Preview
 
-### Developer
+![Full Paper Preview](screenshots/full-preview.png)
 
-Dr. Nadeem Ahmed  
+## Download
+
+Open the **Releases** section of this repository and download the latest Windows installer.
+
+## Trial and activation
+
+The application provides a 15-day evaluation period. Contact the developer for activation after the evaluation period.
+
+## Developer
+
+**Dr. Nadeem Ahmed**  
 Email: nadeempitafi@gmail.com  
 WhatsApp: +92 333 2603239
+
+## Notice
+
+This repository is used for product information and official Windows releases. The application source code is not distributed through this repository.
